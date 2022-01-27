@@ -1,0 +1,9 @@
+{
+	"name": "nightwatchjs-gtm_datalayer",
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "MIT",
+	"dependencies": {
+		"nightwatch": "^1.7.13"
+	}
+}
